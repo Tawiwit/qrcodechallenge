@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: outfit;
+}
+
+.box{
+    max-width: 18rem;
+    max-height: 50;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 18px;
+    margin-top: 4rem;
+}
+
+.box .qr{
+    border-radius: 10px;
+    
+}
+
+.box h1{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.box p{
+    font-size: 15px;
+    padding: 0.4rem;
+    font-weight: 400;
+    color: hsl(218, 44%, 30%);
+}
